@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=780&lines=Data+Scientist+%7C+Researcher+%7C+Developer+%7C+Code+Vibes+Fixer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=780&lines=Data+Scientist+%7C+Researcher+%7C+Code+Vibes+Fixer" />
 </p>
 
 <h1 align="center">Hi, I'm Rinat Kurbanov</h1>
